@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/lyric-search/static/css/main.36497136.chunk.css",
+    "main.js": "/lyric-search/static/js/main.fd16b61a.chunk.js",
+    "main.js.map": "/lyric-search/static/js/main.fd16b61a.chunk.js.map",
+    "runtime-main.js": "/lyric-search/static/js/runtime-main.7b107274.js",
+    "runtime-main.js.map": "/lyric-search/static/js/runtime-main.7b107274.js.map",
+    "static/js/2.1e93e67f.chunk.js": "/lyric-search/static/js/2.1e93e67f.chunk.js",
+    "static/js/2.1e93e67f.chunk.js.map": "/lyric-search/static/js/2.1e93e67f.chunk.js.map",
+    "index.html": "/lyric-search/index.html",
+    "precache-manifest.fe7e7efd1c4c1a29ccb159d6a6dd95fc.js": "/lyric-search/precache-manifest.fe7e7efd1c4c1a29ccb159d6a6dd95fc.js",
+    "service-worker.js": "/lyric-search/service-worker.js",
+    "static/css/main.36497136.chunk.css.map": "/lyric-search/static/css/main.36497136.chunk.css.map",
+    "static/js/2.1e93e67f.chunk.js.LICENSE.txt": "/lyric-search/static/js/2.1e93e67f.chunk.js.LICENSE.txt",
+    "static/media/spinner.gif": "/lyric-search/static/media/spinner.26ef8bb4.gif"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7b107274.js",
+    "static/js/2.1e93e67f.chunk.js",
+    "static/css/main.36497136.chunk.css",
+    "static/js/main.fd16b61a.chunk.js"
+  ]
+}
